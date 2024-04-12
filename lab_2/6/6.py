@@ -58,5 +58,4 @@ def pathsCounter_2(a, b):
 
     print(f'Количество путей: {grid[0][b - 1]}', end="\n\n")
 
-# pathsCounter_1(15, 14)
-pathsCounter_2(2, 2)
+pathsCounter_2(15, 14)
